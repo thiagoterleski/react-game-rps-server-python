@@ -1,0 +1,21 @@
+{
+  "name": "react-game-rps-server-python",
+  "description": "Python server for React game [rock/paper/scissors] realtime",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": [
+    { "name" : "Thiago Terleski"
+      , "email" : "thiagoterleski@gmail.com"
+      , "url" : "http://github.com/thiagoterleski"
+    },
+    { "name" : "Rafael Fidelis"
+      , "email" : "fidelis@gmail.com"
+      , "url" : "http://github.com/fidelisrafael"
+    }
+  ],
+  "license": "ISC"
+}
